@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+	<file original="" datatype="plaintext" xml:space="preserve" source-language="en" target-language="en">
+		<header>
+			<tool tool-id="lokalise.com" tool-name="Lokalise"/>
+		</header>
+		<body>
+			<trans-unit id="//jzjtejuejuejueju">
+				<source></source>
+				<target></target>
+			</trans-unit>
+			<trans-unit id="title">
+				<source>Let's go </source>
+				<target>Let's go </target>
+			</trans-unit>
+			<trans-unit id="akku">
+				<source>The battery is almost empty!
+ Please remove "the battery" and charge it.
+ This helps to extend its lifetime.</source>
+				<target>The battery is almost empty!
+ Please remove "the battery" and charge it.
+ This helps to extend its lifetime.</target>
+			</trans-unit>
+			<trans-unit id="forget">
+				<source>
+Forget vehicle%d  </source>
+				<target>
+Forget vehicle%d  </target>
+			</trans-unit>
+			<trans-unit id="key">
+				<source></source>
+				<target></target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
