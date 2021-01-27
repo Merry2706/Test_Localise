@@ -7,4 +7,5 @@
  This helps to extend its lifetime.</string>
   <string name="forget">
 Forget vehicle%d  </string>
+  <string name="key"></string>
 </resources>
